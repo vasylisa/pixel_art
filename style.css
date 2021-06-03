@@ -1,0 +1,1335 @@
+body{
+    background-color: whitesmoke;
+}
+.line_one{
+  width: 40px;
+  height: 10px;
+  background-color: black;
+  margin-left: 150px;
+}
+.line_two{
+  width: 90px;
+  height: 10px;
+  background-color: black;
+  margin-left: 120px;
+}
+.line_three{
+  width: 110px;
+  height: 10px;
+  background-color: black;
+  margin-left: 110px
+}
+.line_four{
+  width: 130px;
+  height: 10px;
+  background-color: black;
+  margin-left: 100px;
+}
+.line_five_one{
+  width: 80px;
+  height: 20px;
+  margin-left: 90px;
+  background-color: black;
+}
+.line_five_two{
+  width: 20px;
+  height: 10px;
+  margin-left: 210px;
+  margin-top: -20px;
+  background-color: black; 
+}
+.line_six{
+    width: 10px;
+    height: 10px;
+    margin-left: 220px;
+    background-color: black; 
+}
+.line_seven{
+    width: 90px;
+    height: 10px;
+    margin-left: 80px;
+    background-color: black;    
+}
+.line_eight_one{
+    width: 100px;
+    height: 10px;
+    margin-left: 80px;
+    background-color: black;
+}
+.line_eight_two{
+    width: 80px;
+    height: 10px;
+    margin-left: 90px;
+    background-color: orange;
+    margin-top: -10px;
+}
+.line_nine_one{
+    width: 110px;
+    height: 20px;
+    margin-left: 70px;
+    background-color: black;  
+}
+.line_nine_two{
+    width: 90px;
+    height: 20px;
+    margin-left: 80px;
+    background-color: orange;
+    margin-top: -20px;
+}
+.line_ten_one{
+    width: 130px;
+    height: 10px;
+    margin-left: 60px;
+    background-color: black;
+}
+.line_ten_two{
+    width: 110px;
+    height: 10px;
+    margin-left: 70px;
+    background-color: orange;
+    margin-top: -10px;
+}
+.yellow{
+    width: 50px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: -40px;
+    background-color: yellow;
+}
+.orange{
+    width: 30px;
+    height: 20px;
+    margin-left: 110px;
+    margin-top: -30px;
+    background-color: orange;
+}
+.line_tenone{
+    width: 140px;
+    height: 10px;
+    margin-left: 60px;
+    background-color: black;
+    margin-top: 10px;
+}
+.line_tentwo{
+    margin-left: 10px;
+    height: 20px;
+    width: 240px;
+    background-color: black;
+}
+.line_ten_grey{
+    margin-left: 80px;
+    margin-top: -20px;
+    height: 10px;
+    width: 90px;
+    background-color: grey;
+}
+.line_tenthree_one{
+    margin-left: 70px;
+    height: 10px;
+    width: 110px;
+    background-color: grey;
+}
+.line_tenthree_two{
+    margin-left: 90px;
+    height: 10px;
+    width: 70px;
+    margin-top: -10px;
+    background-color: lightgray;
+}
+.line_14_1{
+    width: 250px;
+    height: 30px;
+    background-color: grey;
+}
+.line_14_2{
+    width: 110px;
+    height: 10px;
+    margin-left: 70px;
+    margin-top: -30px;
+    background-color: lightgray;
+}
+.line_14_3{
+    width: 230px;
+    height: 20px;
+    margin-left: 10px;
+    background-color: lightgray;
+}
+.line_15_1{
+    width: 230px;
+    height: 20px;
+    margin-left: 10px;
+    background-color: grey;   
+}
+.line_15_2{
+    width: 210px;
+    height: 10px;
+    margin-left: 20px;
+    margin-top: -20px;
+    background-color: orange;
+}
+.line_15_3{
+    width: 130px;
+    height: 10px;
+    margin-left: 60px;
+    margin-top: -10px;
+    background-color: lightgray;
+}
+.line_16_01{
+    width: 210px;
+    height: 20px;
+    margin-left: 20px;
+    background-color: grey;
+}
+.line_16_1{
+    width: 210px;
+    height: 10px;
+    margin-left: 20px;
+    margin-top: -20px;
+    background-color: orange;
+}
+.line_16_2{
+    width: 150px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 50px;
+    background-color: lightgray;
+}
+.line_17_1{
+    margin-left: 30px;
+    width: 190px;
+    height: 10px;
+    background-color: orange;
+}
+.line_17_2{
+    margin-left: 50px;
+    width: 160px;
+    height: 10px;
+    margin-top: -10px;
+    background-color: lightgray;
+}
+.line_18_1{
+    height: 40px;
+    width: 190px;
+    margin-left: 30px;
+    background-color: grey;
+}
+.line_18_2{
+    margin-top: -40px;
+    height: 10px;
+    width: 170px;
+    margin-left: 40px;
+    background-color: lightgray;
+}
+.line_18_3{
+    margin-left: 40px;
+    width: 30px;
+    height: 10px;
+    background-color: lightgray;
+}
+.line_18_4{
+    margin-left: 90px;
+    margin-top: -10px;
+    width: 70px;
+    height: 10px;
+    background-color: lightgray;
+}
+.line_18_5{
+    margin-left: 180px;
+    margin-top: -10px;
+    width: 30px;
+    height: 10px;
+    background-color: lightgray;
+}
+.line_19_1{
+    margin-left: 40px;
+    height: 20px;
+    width: 20px;
+    background-color: lightgray;
+}
+.line_19_2{
+    margin-left: 190px;
+    margin-top: -20px;
+    height: 20px;
+    width: 20px;
+    background-color: lightgray;
+}
+.line_19_3{
+    margin-left: 100px;
+    margin-top: -20px;
+    height: 20px;
+    width: 50px;
+    background-color: lightgray;
+}
+.orange_pixel1{
+    margin-left: 80px;
+    margin-top: -20px;
+    height: 10px;
+    width: 10px;
+    background-color: orange;
+}
+.orange_pixel2{
+    margin-left: 170px;
+    margin-top: -10px;
+    height: 10px;
+    width: 10px;
+    background-color: orange;
+}
+.white_pixel1{
+    margin-left: 70px;
+    margin-top: -10px;
+    height: 10px;
+    width: 10px;
+    background-color: white;
+}
+.white_pixel2{
+    margin-left: 160px;
+    margin-top: -10px;
+    height: 10px;
+    width: 10px;
+    background-color: white;
+}
+.pixel2_orange1{
+    margin-left: 70px;
+    height: 10px;
+    width: 20px;
+    background-color: orange;
+}
+.pixel2_orange2{
+   margin-left: 160px;
+    margin-top: -10px;
+    height: 10px;
+    width: 20px;
+    background-color: orange; 
+}
+.line_20{
+    margin-left: 40px;
+    height: 20px;
+    width: 170px;
+    background-color: grey;
+}
+.line_20_1_1{
+    margin-top: -20px;
+    margin-left: 50px;
+    height: 10px;
+    width: 20px;
+    background-color: lightgray;
+}
+.line_20_1_2{
+    margin-top: -10px;
+    margin-left: 90px;
+    height: 10px;
+    width: 70px;
+    background-color: lightgray;
+}
+.line_20_1_3{
+    margin-top: -10px;
+    margin-left: 180px;
+    height: 10px;
+    width: 20px;
+    background-color: lightgray;
+}
+.line_20_2_1{
+    margin-left: 50px;
+    height: 10px;
+    width: 70px;
+    background-color: lightgray;
+}
+.line_20_2_2{
+    margin-left: 130px;
+    margin-top: -10px;
+    height: 10px;
+    width: 70px;
+    background-color: lightgray;
+}
+.line-21_1{
+    margin-left: 50px;
+    height: 10px;
+    width: 150px;
+    background-color: grey;
+}
+.line-21_2{
+    margin-left: 60px;
+    margin-top: -10px;
+    height: 10px;
+    width: 130px;
+    background-color: lightgray;
+}
+.line-22{
+    margin-left: 60px;
+    height: 10px;
+    width: 130px;
+    background-color: gray;
+}
+.line_23{
+    margin-left: 80px;
+    height: 10px;
+    width: 120px;
+    background-color: black;
+}
+.pixel_23{
+    margin-left: 120px;
+    margin-top: -10px;
+    height: 10px;
+    width: 10px;
+    background-color: white;
+}
+.line_24{
+   margin-left: 70px;
+    height: 10px;
+    width: 140px;
+    background-color: black; 
+}
+.pixel_24_1{
+    margin-left: 110px;
+    margin-top: -10px;
+    height: 10px;
+    width: 10px;
+    background-color: orange;
+}
+.pixel_24_2{
+    margin-left: 130px;
+    margin-top: -10px;
+    height: 10px;
+    width: 10px;
+    background-color: orange;
+}
+.line_25_1{
+    margin-left: 70px;
+    height: 20px;
+    width: 150px;
+    background-color: black; 
+}
+.line_25_2{
+    margin-top: -20px;
+    margin-left: 80px;
+    height: 10px;
+    width: 20px;
+    background-color: lightgray;
+}
+.line_25_3{
+    margin-top: -10px;
+    margin-left: 120px;
+    height: 10px;
+    width: 10px;
+    background-color: lightgray;
+}
+.line_25_4{
+    margin-top: -10px;
+    margin-left: 150px;
+    height: 10px;
+    width: 10px;
+    background-color: lightgray;
+}
+.line_25_tail{
+    margin-top: -10px;
+    margin-left: 250px;
+    height: 10px;
+    width: 30px;
+    background-color: gray;
+}
+.line_25_5_1{
+    margin-left: 80px;
+    height: 10px;
+    width: 30px;
+    background-color: lightgray;    
+}
+.line_25_5_2{
+    margin-left: 120px;
+    margin-top: -10px;
+    height: 10px;
+    width: 10px;
+    background-color: lightgray;
+}
+.line_25_5_3{
+    margin-left: 140px;
+    margin-top: -10px;
+    height: 10px;
+    width: 30px;
+    background-color: lightgray;
+}
+.line_25_tail_1{
+    margin-left: 250px;
+    margin-top: -10px;
+    height: 10px;
+    width: 40px;
+    background-color: gray;
+}
+.line_25_tail_2{
+    margin-left: 260px;
+    margin-top: -10px;
+    height: 10px;
+    width: 20px;
+    background-color: lightgray;
+}
+.line_26{
+    margin-left: 70px;
+    height: 40px;
+    width: 160px;
+    background-color: black;
+}
+.line_26_1{
+    margin-left: 80px;
+    margin-top: -40px;
+    height: 10px;
+    width: 20px;
+    background-color: lightgray; 
+}
+.line_26_2{
+    margin-left: 110px;
+    margin-top: -10px;
+    height: 10px;
+    width: 30px;
+    background-color: lightgray; 
+}
+.line_26_3{
+    margin-left: 150px;
+    margin-top: -10px;
+    height: 10px;
+    width: 20px;
+    background-color: lightgray; 
+}
+.line_26_tail_1{
+    margin-left: 260px;
+    margin-top: -10px;
+    height: 30px;
+    width: 40px;
+    background-color: gray;
+}
+.line_26_tail_2{
+    margin-left: 270px;
+    margin-top: -30px;
+    height: 30px;
+    width: 20px;
+    background-color: lightgray;
+}
+.line_27{
+    margin-left: 80px;
+    margin-top: -20px;
+    height: 10px;
+    width: 100px;
+    background-color: lightgray;
+} 
+.line_28{
+    margin-left: 80px;
+    height: 10px;
+    width: 110px;
+    background-color: lightgray;
+}
+.line_29{
+    margin-left: 60px;
+    margin-top: 10px;
+    height: 20px;
+    width: 170px;
+    background-color: black;
+}
+.line_29_1{
+    margin-left: 80px;
+    margin-top: -30px;
+    height: 20px;
+    width: 120px;
+    background-color: lightgray;
+}
+.line_29_2{
+    margin-left: 80px;
+    height: 10px;
+    width: 130px;
+    background-color: lightgray;
+}
+.verticalline_29_1{
+    margin-left: 80px;
+    margin-top: -40px;
+    width: 10px;
+    height: 40px;
+    background-color: gray;
+}
+.verticalline_29_2{
+    margin-left: 160px;
+    margin-top: -40px;
+    width: 10px;
+    height: 40px;
+    background-color: gray;
+}
+.line_29_tail_1{
+    margin-left: 250px;
+    margin-top: -30px;
+    height: 10px;
+    width: 50px;
+    background-color: gray;
+}
+.line_29_tail_1_g{
+    margin-left: 260px;
+    margin-top: -10px;
+    height: 10px;
+    width: 30px;
+    background-color: lightgray;
+}
+.line_29_tail_2{
+    margin-left: 250px;
+    height: 10px;
+    width: 40px;
+    background-color: gray;
+}
+.line_29_tail_2_g{
+    margin-left: 260px;
+    margin-top: -10px;
+    height: 10px;
+    width: 20px;
+    background-color: lightgray;
+}
+.line_29_tail_3{
+    margin-left: 240px;
+    height: 10px;
+    width: 50px;
+    background-color: gray;
+}
+.line_29_tail_3_g{
+    margin-left: 250px;
+    margin-top: -10px;
+    height: 10px;
+    width: 30px;
+    background-color: lightgray;
+}
+.line_30{
+    margin-left: 50px;
+    height: 10px;
+    width: 180px;
+    background-color: black;  
+}
+.line_31{
+    margin-left: 40px;
+    height: 10px;
+    width: 190px;
+    background-color: black;
+}
+.line_32{
+    margin-left: 20px;
+    height: 10px;
+    width: 210px;
+    background-color: black;
+}
+.line_30_1{
+    width: 120px;
+    height: 30px;
+    margin-left: 90px;
+    margin-top: -30px;
+    background-color: lightgray;
+}
+.verticalline_30_1{
+    width: 10px;
+    height: 30px;
+    margin-left: 90px;
+    margin-top: -30px;
+    background-color: gray;
+}
+.verticalline_30_2{
+    width: 10px;
+    height: 60px;
+    margin-left: 120px;
+    margin-top: -60px;
+    background-color: gray;
+}
+.verticalline_30_3{
+    width: 10px;
+    height: 30px;
+    margin-left: 150px;
+    margin-top: -30px;
+    background-color: gray;
+}
+.line_30_tail1{
+    margin-left: 230px;
+    margin-top: -30px;
+    height: 10px;
+    width: 50px;
+    background-color: gray;
+}
+.line_30_tail1_1{
+    margin-left: 240px;
+    margin-top: -10px;
+    height: 10px;
+    width: 30px;
+    background-color: lightgray;
+}
+.line_30_tail2{
+    margin-left: 230px;
+    height: 10px;
+    width: 40px;
+    background-color: lightgray;
+}
+.line_30_tail2_2{
+    margin-left: 250px;
+    margin-top: -10px;
+    height: 10px;
+    width: 20px;
+    background-color: gray;
+}
+.line_30_tail3{
+    margin-left: 230px;
+    height: 10px;
+    width: 20px;
+    background-color: gray;
+}
+.line_end_cat{
+    width: 220px;
+    height: 10px;
+    background-color: black;
+}
+.line_end_cat1{
+    width: 20px;
+    height: 10px;
+    margin-left: 100px;
+    margin-top: -10px;
+    background-color: gray;
+}
+.line_end_cat2{
+    width: 60px;
+    height: 10px;
+    margin-left: 130px;
+    margin-top: -10px;
+    background-color: gray;
+}
+/*Конец кота*/
+/*Красное зелье*/
+.potion_line1{
+    width: 50px;
+    height: 10px;
+    margin-left: 500px;
+    margin-top: -420px;
+    background-color: black;
+}
+.potion_line2_1{
+    width: 70px;
+    height: 10px;
+    margin-left: 490px;
+    background-color: black;
+}
+.potion_line2_2{
+    width: 50px;
+    height: 10px;
+    margin-left: 500px;
+    margin-top: -10px;
+    background-color: goldenrod;
+}
+.potion_line3_1{
+    width: 50px;
+    height: 10px;
+    margin-left: 500px;
+    background-color: black;
+}
+.potion_line3_2{
+    width: 30px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 510px;
+    background-color: goldenrod;
+}
+.potion_line1_red{
+    width: 90px;
+    height: 10px;
+    margin-left: 480px;
+    background-color: black;
+}
+.potion_line1_red1{
+    width: 40px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 510px;
+    background-color: red;
+}
+.potion_line1_red2{
+    width: 10px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 510px;
+    background-color: darkred;
+}
+.potion_line2_red{
+    width: 110px;
+    height: 10px;
+    margin-left: 470px;
+    background-color: black;
+}
+.potion_line2_red1{
+    width: 80px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 490px;
+    background-color: red;
+}
+.potion_line2_red2{
+    width: 10px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 480px;
+    background-color: darkred;
+}
+.potion_line4_red{
+    width: 130px;
+    height: 40px;
+    margin-left: 460px;
+    background-color: black;
+}
+.potion_line4_red1{
+    width: 110px;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 470px;
+    background-color: red;
+}
+.potion_line4_red2{
+    width: 10px;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 470px;
+    background-color: darkred;
+}
+.potion_pixel_red1{
+    width: 10px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 480px;
+    background-color: darkred;
+}
+.potion_pixel_red2{
+    width: 10px;
+    height: 10px;
+    margin-top: -40px;
+    margin-left: 550px;
+    background-color: white;
+}
+.potion_pixel_red3{
+    width: 10px;
+    height: 10px;
+    margin-left: 560px;
+    background-color: white;
+}
+.potion_line5_red{
+    width: 110px;
+    height: 10px;
+    margin-left: 470px;
+    margin-top: 20px;
+    background-color: black;
+}
+.potion_line5_red1{
+    width: 90px;
+    height: 10px;
+    margin-left: 480px;
+    margin-top: -10px;
+    background-color: red;
+}
+.potion_line5_red2{
+    width: 20px;
+    height: 10px;
+    margin-left: 480px;
+    margin-top: -10px;
+    background-color: darkred; 
+}
+.potion_line6_red{
+    width: 90px;
+    height: 10px;
+    margin-left: 480px;
+    background-color: black;
+}
+.potion_line6_red1{
+    width: 70px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 490px;
+    background-color: darkred;
+}
+.potion_endline_red{
+    width: 70px;
+    height: 10px;
+    margin-left: 490px;
+    background-color: black;
+}
+/*Конец Красного зелья*/
+/*Желтое зелье*/
+.potion2_line1{
+    width: 50px;
+    height: 10px;
+    margin-left: 700px;
+    margin-top: -120px;
+    background-color: black;
+}
+.potion2_line2_1{
+    width: 70px;
+    height: 10px;
+    margin-left: 690px;
+    background-color: black;
+}
+.potion2_line2_2{
+    width: 50px;
+    height: 10px;
+    margin-left: 700px;
+    margin-top: -10px;
+    background-color: goldenrod;
+}
+.potion2_line3_1{
+    width: 50px;
+    height: 10px;
+    margin-left: 700px;
+    background-color: black;
+}
+.potion2_line3_2{
+    width: 30px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 710px;
+    background-color: goldenrod;
+}
+.potion_line1_yellow{
+    width: 90px;
+    height: 10px;
+    margin-left: 680px;
+    background-color: black;
+}
+.potion_line1_yellow1{
+    width: 40px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 710px;
+    background-color: yellow;
+}
+.potion_line1_yellow2{
+    width: 10px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 710px;
+    background-color: rgb(201, 201, 0);
+}
+.potion_line2_yellow{
+    width: 110px;
+    height: 10px;
+    margin-left: 670px;
+    background-color: black;
+}
+.potion_line2_yellow1{
+    width: 80px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 690px;
+    background-color: yellow;
+}
+.potion_line2_yellow2{
+    width: 10px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 680px;
+    background-color: rgb(201, 201, 0);
+}
+.potion_line4_yellow{
+    width: 130px;
+    height: 40px;
+    margin-left: 660px;
+    background-color: black;
+}
+.potion_line4_yellow1{
+    width: 110px;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 670px;
+    background-color: yellow;
+}
+.potion_line4_yellow2{
+    width: 10px;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 670px;
+    background-color: rgb(201, 201, 0);
+}
+.potion_pixel_yellow1{
+    width: 10px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 680px;
+    background-color: rgb(201, 201, 0);
+}
+.potion_pixel_yellow2{
+    width: 10px;
+    height: 10px;
+    margin-top: -40px;
+    margin-left: 750px;
+    background-color: white;
+}
+.potion_pixel_yellow3{
+    width: 10px;
+    height: 10px;
+    margin-left: 760px;
+    background-color: white;
+}
+.potion_line5_yellow{
+    width: 110px;
+    height: 10px;
+    margin-left: 670px;
+    margin-top: 20px;
+    background-color: black;
+}
+.potion_line5_yellow1{
+    width: 90px;
+    height: 10px;
+    margin-left: 680px;
+    margin-top: -10px;
+    background-color: yellow;
+}
+.potion_line5_yellow2{
+    width: 20px;
+    height: 10px;
+    margin-left: 680px;
+    margin-top: -10px;
+    background-color: rgb(201, 201, 0);
+}
+.potion_line6_yellow{
+    width: 90px;
+    height: 10px;
+    margin-left: 680px;
+    background-color: black;
+}
+.potion_line6_yellow1{
+    width: 70px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 690px;
+    background-color: rgb(201, 201, 0);
+}
+.potion_endline_yellow{
+    width: 70px;
+    height: 10px;
+    margin-left: 690px;
+    background-color: black;
+}
+/*Конец желтого зелья*/
+/*Зеленое зелье*/
+.potion3_line1{
+    width: 50px;
+    height: 10px;
+    margin-left: 900px;
+    margin-top: -120px;
+    background-color: black;
+}
+.potion3_line2_1{
+    width: 70px;
+    height: 10px;
+    margin-left: 890px;
+    background-color: black;
+}
+.potion3_line2_2{
+    width: 50px;
+    height: 10px;
+    margin-left: 900px;
+    margin-top: -10px;
+    background-color: goldenrod;
+}
+.potion3_line3_1{
+    width: 50px;
+    height: 10px;
+    margin-left: 900px;
+    background-color: black;
+}
+.potion3_line3_2{
+    width: 30px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 910px;
+    background-color: goldenrod;
+}
+.potion_line1_green{
+    width: 90px;
+    height: 10px;
+    margin-left: 880px;
+    background-color: black;
+}
+.potion_line1_green1{
+    width: 40px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 910px;
+    background-color: green;
+}
+.potion_line1_green2{
+    width: 10px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 910px;
+    background-color: darkgreen;
+}
+.potion_line2_green{
+    width: 110px;
+    height: 10px;
+    margin-left: 870px;
+    background-color: black;
+}
+.potion_line2_green1{
+    width: 80px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 890px;
+    background-color: green;
+}
+.potion_line2_green2{
+    width: 10px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 880px;
+    background-color: darkgreen;
+}
+.potion_line4_green{
+    width: 130px;
+    height: 40px;
+    margin-left: 860px;
+    background-color: black;
+}
+.potion_line4_green1{
+    width: 110px;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 870px;
+    background-color: green;
+}
+.potion_line4_green2{
+    width: 10px;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 870px;
+    background-color: darkgreen;
+}
+.potion_pixel_green1{
+    width: 10px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 880px;
+    background-color: darkgreen;
+}
+.potion_pixel_green2{
+    width: 10px;
+    height: 10px;
+    margin-top: -40px;
+    margin-left: 950px;
+    background-color: white;
+}
+.potion_pixel_green3{
+    width: 10px;
+    height: 10px;
+    margin-left: 960px;
+    background-color: white;
+}
+.potion_line5_green{
+    width: 110px;
+    height: 10px;
+    margin-left: 870px;
+    margin-top: 20px;
+    background-color: black;
+}
+.potion_line5_green1{
+    width: 90px;
+    height: 10px;
+    margin-left: 880px;
+    margin-top: -10px;
+    background-color: green;
+}
+.potion_line5_green2{
+    width: 20px;
+    height: 10px;
+    margin-left: 880px;
+    margin-top: -10px;
+    background-color: darkgreen;
+}
+.potion_line6_green{
+    width: 90px;
+    height: 10px;
+    margin-left: 880px;
+    background-color: black;
+}
+.potion_line6_green1{
+    width: 70px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 890px;
+    background-color: darkgreen;
+}
+.potion_endline_green{
+    width: 70px;
+    height: 10px;
+    margin-left: 890px;
+    background-color: black;
+}
+/*Конец зеленого зелья*/
+/*Синие зелье*/
+.potion4_line1{
+    width: 50px;
+    height: 10px;
+    margin-left: 1100px;
+    margin-top: -120px;
+    background-color: black;
+}
+.potion4_line2_1{
+    width: 70px;
+    height: 10px;
+    margin-left: 1090px;
+    background-color: black;
+}
+.potion4_line2_2{
+    width: 50px;
+    height: 10px;
+    margin-left: 1100px;
+    margin-top: -10px;
+    background-color: goldenrod;
+}
+.potion4_line3_1{
+    width: 50px;
+    height: 10px;
+    margin-left: 1100px;
+    background-color: black;
+}
+.potion4_line3_2{
+    width: 30px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 1110px;
+    background-color: goldenrod;
+}
+.potion_line1_blue{
+    width: 90px;
+    height: 10px;
+    margin-left: 1080px;
+    background-color: black;
+}
+.potion_line1_blue1{
+    width: 40px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 1110px;
+    background-color: blue;
+}
+.potion_line1_blue2{
+    width: 10px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 1110px;
+    background-color: darkblue;
+}
+.potion_line2_blue{
+    width: 110px;
+    height: 10px;
+    margin-left: 1070px;
+    background-color: black;
+}
+.potion_line2_blue1{
+    width: 80px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 1090px;
+    background-color: blue;
+}
+.potion_line2_blue2{
+    width: 10px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 1080px;
+    background-color: darkblue;
+}
+.potion_line4_blue{
+    width: 130px;
+    height: 40px;
+    margin-left: 1060px;
+    background-color: black;
+}
+.potion_line4_blue1{
+    width: 110px;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 1070px;
+    background-color: blue;
+}
+.potion_line4_blue2{
+    width: 10px;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 1070px;
+    background-color: darkblue;
+}
+.potion_pixel_blue1{
+    width: 10px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 1080px;
+    background-color: darkblue;
+}
+.potion_pixel_blue2{
+    width: 10px;
+    height: 10px;
+    margin-top: -40px;
+    margin-left: 1150px;
+    background-color: white;
+}
+.potion_pixel_blue3{
+    width: 10px;
+    height: 10px;
+    margin-left: 1160px;
+    background-color: white;
+}
+.potion_line5_blue{
+    width: 110px;
+    height: 10px;
+    margin-left: 1070px;
+    margin-top: 20px;
+    background-color: black;
+}
+.potion_line5_blue1{
+    width: 90px;
+    height: 10px;
+    margin-left: 1080px;
+    margin-top: -10px;
+    background-color: blue;
+}
+.potion_line5_blue2{
+    width: 20px;
+    height: 10px;
+    margin-left: 1080px;
+    margin-top: -10px;
+    background-color: darkblue;
+}
+.potion_line6_blue{
+    width: 90px;
+    height: 10px;
+    margin-left: 1080px;
+    background-color: black;
+}
+.potion_line6_blue1{
+    width: 70px;
+    height: 10px;
+    margin-top: -10px;
+    margin-left: 1090px;
+    background-color: darkblue;
+}
+.potion_endline_blue{
+    width: 70px;
+    height: 10px;
+    margin-left: 1090px;
+    background-color: black;
+}
+/*Конец синего зелья*/
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Poppins:wght@300&family=Roboto+Condensed:wght@300&display=swap');
+.H{
+    margin-left: 520px;
+    margin-top: 10px;
+    color: darkred;
+    font-family: Poppins;
+}
+.T{
+    margin-left: 720px;
+    margin-top: -280px;
+    color: rgb(201, 201, 0);
+    font-family: Poppins;
+}
+.M{
+    margin-left: 920px;
+    margin-top:-180px;
+    color: darkgreen;
+    font-family: Poppins;
+}
+.L{
+    margin-left: 1120px;
+    margin-top:-285px;
+    color: darkblue;
+    font-family: Poppins;
+}
